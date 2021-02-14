@@ -25,7 +25,7 @@ function App() {
     <ChakraProvider theme={theme}>
     {/* Top Section */}
       <Box p={8} h="27vh" bgColor="#9EBC9F" w="100%">
-        <Text fontWeight="bold" fontSize="6xl" align="center">The Food Loop</Text>
+        <Text decoration="underline" fontWeight="bold" fontSize="6xl" align="center" textShadow="2px 2px 8px #e5e5e5">The Food Loop</Text>
         <Text fontSize="xl" align="center">Understanding how your food choices can affect the environment around you.</Text>
       </Box>
     {/* Problem section */}
@@ -55,14 +55,14 @@ function App() {
     
     {/* Action cards section */}
 
-    <Box paddingBottom={3} mx="5rem">
+    <Box py={3} mx="5rem">
       <Text fontWeight="bold" fontSize="3xl" align="center" textTransform="uppercase" color="#656256">Next steps</Text>
-      <Text marginTop="-1rem" fontWeight="bold" fontSize="4xl" align="center" color="#000000">putting it into action</Text>
+      <Text marginTop="-1rem" fontWeight="bold" fontSize="4xl" align="center" color="#000000">taking action</Text>
     </Box>
 
-    <Flex mx="5rem" w="100%" justify="center" align="center">
+    <Flex w="100%" justify="center" align="center">
       <Grid templateColumns="repeat(3, 1fr)" gap={6}>
-        <Box p={5} w="33vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
+        <Box p={5} w="23vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
           <Center h="100%">
             <VStack>
               <FaCar size="3em" />
@@ -70,7 +70,7 @@ function App() {
             </VStack>
           </Center>
         </Box>
-        <Box p={5} w="33vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
+        <Box p={5} w="23vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
           <Center h="100%">
             <VStack>
               <FaCar size="3em" />
@@ -78,7 +78,7 @@ function App() {
             </VStack>
           </Center>
         </Box>
-        <Box p={5} w="33vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
+        <Box p={5} w="23vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
           <Center h="100%">
             <VStack>
               <FaCar size="3em" />
@@ -86,7 +86,7 @@ function App() {
             </VStack>
           </Center>
         </Box>
-        <Box p={5} w="33vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
+        <Box p={5} w="23vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
           <Center h="100%">
             <VStack>
               <FaCar size="3em" />
@@ -94,7 +94,7 @@ function App() {
             </VStack>
           </Center>
         </Box>
-        <Box p={5} w="33vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
+        <Box p={5} w="23vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
           <Center h="100%">
             <VStack>
               <FaCar size="3em" />
@@ -102,7 +102,7 @@ function App() {
             </VStack>
           </Center>
         </Box>
-        <Box p={5} w="33vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
+        <Box p={5} w="23vw" h="40vh" rounded="20px" boxShadow="xl" bgColor="#D3B88C">
           <Center h="100%">
             <VStack>
               <FaCar size="3em" />
