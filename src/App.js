@@ -27,17 +27,17 @@ function App() {
     {/* Top Section */}
       <Box className="big-title" p={8} h="27vh" bgColor="#9EBC9F" w="100%">
         <Text decoration="underline" fontWeight="bold" fontSize="6xl" align="center" textShadow="2px 2px 8px #e5e5e5">The Food Loop</Text>
-        <Text fontSize="xl" align="center">Understanding how your food choices can affect the environment around you.</Text>
+        <Text fontSize="2xl" align="center">Understanding how your food choices can affect the environment around you.</Text>
       </Box>
     {/* Problem section */}
     <Box mx="5rem" pt={10}>
-      <Text textDecoration="unset">Whether you’re munching on a sandwich, eating cookies from your grandma’s house, or drinking fruit juice, your 
+      <Text fontSize="lg" textDecoration="unset">Whether you’re munching on a sandwich, eating cookies from your grandma’s house, or drinking fruit juice, your 
         food choices affect many aspects of society including workers in the food industry, the environment, food policy and economics, 
         and animals. One of the biggest concerns currently is climate change. Everything we consume comes with a carbon footprint, or <a href="https://www.greeneatz.com/foods-carbon-footprint.htm">foodprint</a> in this case, which is the amount of greenhouse gas emissions produced before getting to your home. A few ways to reduce your carbon foodprint are to 
       source food locally, eat seasonally, and avoid buying too much at the grocery store to reduce food waste.</Text>
     </Box>
     
-    <Box py={10} mx="5rem" textDecoration="unset">
+    <Box fontSize="lg" py={10} mx="5rem" textDecoration="unset">
       <Text>Choosing to buy one food product over another can be influenced by many factors including <a href="https://www.ethicalconsumer.org/food-drink/shopping-guide/fast-food-chains">ethics</a>. Welfare of workers has become a growing issue in wake of COVID-19 as risk increases and employers do not take adequate precaution. Learn more about how you can increase awareness of your food choices below.</Text>
     </Box>
 
