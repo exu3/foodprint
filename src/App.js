@@ -26,7 +26,7 @@ function App() {
     <Box mx="5rem" pt={10}>
       <Text fontSize="lg" textDecoration="unset">Whether you’re munching on a sandwich, eating cookies from your grandma’s house, or drinking fruit juice, your 
         food choices affect many aspects of society including workers in the food industry, the environment, food policy and economics, 
-        and animals. One of the biggest concerns currently is climate change. Everything we consume comes with a carbon footprint, or <strong><a href="https://www.greeneatz.com/foods-carbon-footprint.htm">foodprint</a></strong> in this case, which is the amount of greenhouse gas emissions produced before getting to your home. A few ways to reduce your carbon foodprint are to 
+        and animals. One of the biggest concerns currently is climate change. Everything we consume comes with a carbon footprint, or <strong><a href="https://www.greeneatz.com/foods-carbon-footprint.html">foodprint</a></strong> in this case, which is the amount of greenhouse gas emissions produced before getting to your home. A few ways to reduce your carbon foodprint are to 
       source food locally, eat seasonally, and avoid buying too much at the grocery store to reduce food waste.</Text>
     </Box>
     
