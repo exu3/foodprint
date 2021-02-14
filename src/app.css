@@ -1,0 +1,9 @@
+a {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
