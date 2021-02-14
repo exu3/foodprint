@@ -2,21 +2,14 @@ import React from 'react';
 import {
   ChakraProvider,
   Box,
-  Container,
   Text,
-  Link,
   VStack,
-  Code,
   Grid,
   GridItem,
   Flex,
-  Spacer,
   theme,
-  Image,
   Center,
-  SimpleGrid
 } from '@chakra-ui/react';
-import { ColorModeSwitcher } from './ColorModeSwitcher';
 import { FaLeaf, FaCar, FaCarrot, FaSlideshare, FaListAlt } from 'react-icons/fa';
 import { RiPlantFill } from "react-icons/ri";
 import './app.css';
