@@ -26,12 +26,12 @@ function App() {
     <Box mx="5rem" pt={10}>
       <Text fontSize="lg" textDecoration="unset">Whether you’re munching on a sandwich, eating cookies from your grandma’s house, or drinking fruit juice, your 
         food choices affect many aspects of society including workers in the food industry, the environment, food policy and economics, 
-        and animals. One of the biggest concerns currently is climate change. Everything we consume comes with a carbon footprint, or <a href="https://www.greeneatz.com/foods-carbon-footprint.htm">foodprint</a> in this case, which is the amount of greenhouse gas emissions produced before getting to your home. A few ways to reduce your carbon foodprint are to 
+        and animals. One of the biggest concerns currently is climate change. Everything we consume comes with a carbon footprint, or <strong><a href="https://www.greeneatz.com/foods-carbon-footprint.htm">foodprint</a></strong> in this case, which is the amount of greenhouse gas emissions produced before getting to your home. A few ways to reduce your carbon foodprint are to 
       source food locally, eat seasonally, and avoid buying too much at the grocery store to reduce food waste.</Text>
     </Box>
     
     <Box fontSize="lg" py={10} mx="5rem" textDecoration="unset">
-      <Text>Choosing to buy one food product over another can be influenced by many factors including <a href="https://www.ethicalconsumer.org/food-drink/shopping-guide/fast-food-chains">ethics</a>. Welfare of workers has become a growing issue in wake of COVID-19 as risk increases and employers do not take adequate precaution. Learn more about how you can increase awareness of your food choices below.</Text>
+      <Text>Choosing to buy one food product over another can be influenced by many factors including <strong><a href="https://www.ethicalconsumer.org/food-drink/shopping-guide/fast-food-chains">ethics</a></strong>. Welfare of workers has become a growing issue in wake of COVID-19 as risk increases and employers do not take adequate precaution. Learn more about how you can increase awareness of your food choices below.</Text>
     </Box>
 
     {/* Statistics section */}
@@ -52,7 +52,7 @@ function App() {
         </GridItem>
         <GridItem p={5} rowSpan={1} colSpan={2} bg="papayawhip">
           <VStack>
-            <Text fontSize="lg" align="center">The <a href="https://www.edf.org/climate/methane-other-important-greenhouse-gas">methane</a> emitted by rotting food in a landfill is</Text>
+            <Text fontSize="lg" align="center">The <strong><a href="https://www.edf.org/climate/methane-other-important-greenhouse-gas">methane</a></strong> emitted by rotting food in a landfill is</Text>
             <Text fontSize="4xl" align="center" color="tomato" fontWeight="bold">28 to 36 times</Text>
             <Text fontSize="lg" align="center">more potent than carbon emitted from passenger vehicles.</Text>
             <Text fontSize="sm" fontStyle="italic">Source: <a href="https://rubicon.com">rubicon.com</a></Text>
