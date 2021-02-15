@@ -19,7 +19,7 @@ function App() {
     <ChakraProvider theme={theme}>
     {/* Top Section */}
       <Box className="big-title" p={8} h="27vh" bgColor="#9EBC9F" w="100%">
-        <Text decoration="underline" fontWeight="bold" fontSize="6xl" align="center" textShadow="2px 2px 8px #e5e5e5">The Food Loop</Text>
+        <Text decoration="underline" fontWeight="bold" fontSize="6xl" align="center" textShadow="2px 2px 8px #e5e5e5">Foodprint</Text>
         <Text fontSize="2xl" align="center">Understanding how your food choices can affect the environment around you.</Text>
       </Box>
     {/* Problem section */}
