@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/logo.svg" width="350" height="350" alt="">
+    <img src="https://cloud-750r74xro.vercel.app/0logoo.png" width="200" height="200" alt="carrot">
     <h1>Foodprint</h1>
     <p>
         <b>Making sustainable choices</b>
