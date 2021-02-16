@@ -6,7 +6,7 @@
     </p>
     <p>
         <img alt="language" src="https://img.shields.io/github/languages/top/eilla1/foodprint" >
-        <img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/LightningDelete?color=green">
+        <img alt="license" src="https://img.shields.io/github/license/eilla1/foodprint?color=green">
     </p>
  </div>
 
